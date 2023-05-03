@@ -1,0 +1,29 @@
+#root {
+  max-width: 1360px;
+  margin: 0 auto;
+  padding: 2rem 0;
+  text-decoration: none;
+}
+
+.button{
+  background-color: rgb(127, 17, 224);
+  padding: .5rem 1rem;
+  border: none;
+  height: 2.5rem;
+  border-radius: .5rem;
+  font-weight: 800;
+  text-decoration: none;
+}
+
+.button:hover{
+  background-color: rgba(127, 17, 224,.3);
+  border: 1px solid white;
+  font-weight: 800;
+ transition: all 1s;
+}
+
+.container-post{
+  display: flex;
+  padding: .5rem;
+  flex-wrap: wrap;
+}

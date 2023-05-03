@@ -1,0 +1,59 @@
+[{
+    "username": "MorenoFran21",
+    "profileImg": null,
+    "Pick": {
+        "name": "1682960222485.jpg",
+        "path": "http://localhost:3001/uploads/1682960222485.jpg",
+        "createdAt": "2023-05-01T16:57:02.000Z"
+    }
+},{
+    "username": "MorenoFran21",
+    "profileImg": null,
+    "Pick": {
+        "name": "1682960233191.jpg",
+        "path": "http://localhost:3001/uploads/1682960233191.jpg",
+        "createdAt": "2023-05-01T16:57:13.000Z"
+    }
+},{
+    "username": "MorenoFran21",
+    "profileImg": null,
+    "Pick": {
+        "name": "1682960258149.jpg",
+        "path": "http://localhost:3001/uploads/1682960258149.jpg",
+        "createdAt": "2023-05-01T16:57:38.000Z"
+    }
+},{
+    "username": "MorenoFran21",
+    "profileImg": null,
+    "Pick": {
+        "name": "1682987318250.jpg",
+        "path": "http://localhost:3001/uploads/1682987318250.jpg",
+        "createdAt": "2023-05-01T16:57:02.000Z"
+    }
+},{
+    "username": "MorenoFran21",
+    "profileImg": null,
+    "Pick": {
+        "name": "1682987324594.jpg",
+        "path": "http://localhost:3001/uploads/1682987324594.jpg",
+        "createdAt": "2023-05-01T16:57:13.000Z"
+    }
+},{
+    "username": "MorenoFran21",
+    "profileImg": null,
+    "Pick": {
+        "name": "1682987327890.jpg",
+        "path": "http://localhost:3001/uploads/1682987327890.jpg",
+        "createdAt": "2023-05-01T16:57:38.000Z"
+    }
+},{
+    "username": "MorenoFran21",
+    "profileImg": null,
+    "Pick": {
+        "name": "1682987333966.jpg",
+        "path": "http://localhost:3001/uploads/1682987333966.jpg",
+        "createdAt": "2023-05-01T16:57:38.000Z"
+    }
+}
+
+]

@@ -1,0 +1,38 @@
+.Container_PostDetail {
+    width: 90%;
+    margin: auto;
+    display: grid;
+  grid-template-columns: 50% 50%;
+}
+
+.Card_header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.Card_body {
+  padding: 0 1rem;
+}
+
+.Card_imgImg {
+  width: 100%;
+  height: auto;
+}
+.Card_comments{
+    height: 70%;
+    overflow-y: auto;
+}
+
+.inputCommnetBox {
+  padding: 2rem 0;
+  height: auto;
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+.inputCommnet {
+  width: 30rem;
+  height: 2rem;
+}
